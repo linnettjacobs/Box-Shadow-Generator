@@ -32,4 +32,4 @@ function createBox() {
   output.value = `box-shadow: ${boxShadow}`;
 }
 
-createBox();.
+createBox();..
